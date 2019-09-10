@@ -1,5 +1,5 @@
 # carikost - app
-Mamikost Clone App using ReactNative, Express JS(back-end), and PostgreSQL(database)
+Mamikost Clone App using ReactNative, Express JS(back-end), and PostgreSQL(database).
 
 ## Important
 This project is still in the very early development stage. If you want to use for production, use it with your own risk.
@@ -22,9 +22,11 @@ More feature will be Coming Soon.
 ## Tech Stack
 * React Native for the Mobile Frontend
 * Express Js as the Backend
+* MySQL as Database
 
 ## Prerequisites
 * Make sure you had been install NodeJs in your system https://nodejs.org/
+* Express Js as the backend https://expressjs.com
 * Then install React Native https://facebook.github.io/react-native/
 
 ## Installation & Configuration
@@ -32,29 +34,26 @@ Follow this step to install
 
 **Frontend:**
 ```
-$ git clone https://github.com/akimabs/CariKostFinal
-$ cd CariKostFinal
+$ git clone https://github.com/dyahnrchls/carikost-app.git
+$ cd carikost-app
 $ npm install
-$ react-native run-ios #for ios
 $ react-native run-android #for android
 ```
 
 
 **Back-end:**
 ```
-$ git clone https://github.com/dyahnrchls/mamikostcloneAPI_
-$ cd mamikostcloneAPI_
+$ git clone https://github.com/dyahnrchls/carikost-API
+$ cd carikost-API
 $ npm install
+running at localhost
 ```
 
-## Support Us :)
-* Hire Me https://www.linkedin.com/in/akimabs
+## Support Me :)
 * Hire Me https://www.linkedin.com/in/dyahnrchls
 
 ----
 
 ## License
 
-BSD 3-Clause License
-
-See [LICENSE](LICENSE)
+[MIT](https://choosealicense.com/licenses/mit/)
